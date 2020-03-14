@@ -1,2 +1,2 @@
 # Java Projects
-Project featuring some experimental Java classes.
+Repository featuring some experimental Java projects.
