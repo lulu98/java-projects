@@ -1,2 +1,2 @@
-# Java Projects
-Repository featuring some experimental Java projects.
+# Small Projects
+Repository featuring some small side projects in different programming languages.
